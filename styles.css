@@ -28,8 +28,8 @@ div.gallery:hover {
 
 div.gallery img {
   object-fit: cover;
-  width: 230px;
-  height: 230px;
+  width: 130px;
+  height: 130px;
 }
 
 div.desc {
