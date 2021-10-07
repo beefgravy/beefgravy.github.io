@@ -13,7 +13,7 @@ p {
 }
 
 div.center {
-	max-width: auto;
+	max-width: 100%;
 	margin: auto;
 	border: 3px solid #73AD21;
 }
