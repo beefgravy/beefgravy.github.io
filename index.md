@@ -6,8 +6,10 @@
 
 <div class="center">
   <div class="column side">
-    <h1>Side Heading</h1>
-    <p>Side Text</p>
+    <h1>About Me</h1>
+    <a target="_blank" href="images/me_crop.jpg">
+      <img src="images/me_crop.jpg" alt="Profile Picture">
+    </a>
   </div>
   
   <div class="column middle">
