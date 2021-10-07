@@ -4,7 +4,7 @@
 </head>
 <body>
 
-
+<div class="center">
   <div class="column side">
     <h1>Side Heading</h1>
     <p>Side Text</p>
@@ -58,7 +58,7 @@
     <h1>Side Heading</h1>
     <p>Side Text</p>
   </div>
-
+  </div>
 
 </body>
 </html> 
