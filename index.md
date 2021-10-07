@@ -10,8 +10,8 @@
     <a target="_blank" href="images/me_crop.jpg">
       <img src="images/me_crop.jpg" alt="Profile Picture" width="200" height="200" class="header">
     </a>
-    <p>Civil Engineer & Glider Pilot, with just enough knowledge to be dangerous in a wide variety of niche subjects</p>
-    <p>Dabbling in the web again, after a long layoff, and looking for somewhere to curate my thoughts</p>
+    <p>Civil Engineer & Glider Pilot, with just enough knowledge to be dangerous in a wide variety of niche subjects.</p>
+    <p>Dabbling in the web again, after a long layoff, and looking for somewhere to curate my thoughts.</p>
   </div>
   
   <div class="column middle">
