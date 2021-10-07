@@ -27,7 +27,7 @@
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="images/2.jpg">
-      <img src="images/2.jpg" alt="Forest">
+      <img src="images/2.jpg" alt="Forest" width="600" height="400">
     </a>
     <div class="desc">Add a description of the image here</div>
   </div>
