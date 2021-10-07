@@ -9,6 +9,7 @@
     <h1>Side Heading</h1>
     <p>Side Text</p>
   </div>
+  
   <div class="column middle">
 <h1>This is a heading</h1>
 <p>This is a paragraph.</p>
