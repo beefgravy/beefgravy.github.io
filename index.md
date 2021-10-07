@@ -50,6 +50,15 @@
     <div class="desc">Add a description of the image here</div>
   </div>
 </div>
+    
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="images/1.jpg">
+      <img src="images/1.jpg" alt="Mountains" width="600" height="400">
+    </a>
+    <div class="desc">Add a description of the image here</div>
+  </div>
+</div>
 
 <div class="clearfix"></div>
 
