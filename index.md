@@ -58,7 +58,9 @@
     <h1>Side Heading</h1>
     <p>Side Text</p>
   </div>
+  
+<div class="clearfix"></div>
   </div>
-
+  
 </body>
 </html> 
