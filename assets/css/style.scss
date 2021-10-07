@@ -13,7 +13,6 @@ h1 {
 
 p {
   margin-left: 10px;
-  margin-right: 10px;
 }
 
 div.center {
@@ -75,6 +74,7 @@ div.desc {
 
 .column {
   float: left;
+  padding: 0 10px; 
 }
 
 /* Left and right column */
