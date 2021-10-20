@@ -9,5 +9,5 @@ Hopefully this has worked.
       {{ post.title }}
     </a>
   </h2>
- <p>{{ stuff.content | markdownify }}</p>
+ <p>{{ post.content | markdownify }}</p>
 {% endfor %}
