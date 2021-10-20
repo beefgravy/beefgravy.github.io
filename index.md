@@ -3,11 +3,11 @@
 ## Commit, Push etc.
 Hopefully this has worked.
 
-{% for stuff in site.stuff %}
+{% for post in site.posts %}
   <h2>
-    <a href="{{ stuff.url }}">
-      {{ stuff.title }}
+    <a href="{{ post.url }}">
+      {{ post.title }}
     </a>
   </h2>
-  <p>{{ stuff.content | markdownify }}</p>
+ <p>{{ stuff.content | markdownify }}</p>
 {% endfor %}
