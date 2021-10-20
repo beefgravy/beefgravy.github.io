@@ -9,7 +9,7 @@ This is some text talking about the test article
 [Test Content Article](/content/20211005_Test_Content_1.md)
 This is some text talking about the test article
 
-{% for file in site.static_files %}
+{% for file in site.content %}
 {% if file.extname == ".md" %}
 [{{ file.basename }}]({{site.baseurl}}/{{file.basename}}.html)
 {% endif %}
