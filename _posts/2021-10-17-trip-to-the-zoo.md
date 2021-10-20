@@ -5,5 +5,5 @@ date: 2021-10-17
 author: Beef
 ---
 
-# I saw all the animals!
-All the animals!
+## I saw all the animals!
+All the animals! It was an interesting day, and the creatures overall seemed happy with their incarceration.

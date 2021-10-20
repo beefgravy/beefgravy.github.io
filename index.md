@@ -1,8 +1,3 @@
-# Welcome
-
-## Commit, Push etc.
-Hopefully this has worked.
-
 {% for post in site.posts %}
   <h2>
     <a href="{{ post.url }}">
