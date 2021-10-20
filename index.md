@@ -14,3 +14,12 @@ This is some text talking about the test article
 [{{ file.basename }}]({{site.baseurl}}/{{file.basename}}.html)
 {% endif %}
 {% endfor %}
+
+{% for content in site.stuff %}
+  <h2>
+    <a href="{{ stuff.url }}">
+      {{ stuff.title }}
+    </a>
+  </h2>
+  <p>{{ stuff.content | markdownify }}</p>
+{% endfor %}
